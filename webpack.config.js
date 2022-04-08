@@ -1,4 +1,4 @@
-const outputPath = 'web/app/themes/grafikart/assets'
+const outputPath = 'web/app/themes/project/assets'
 const webpackAssetsManifest = require('webpack-assets-manifest')
 const path = require('path')
 const {isProduction} = require('webpack-mode')
